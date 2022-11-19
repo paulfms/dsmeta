@@ -33,8 +33,9 @@ A Aplicação foi hospedada na plataforma netlify e o backend no heroku.
 Link do projeto hospedado: https://dsmeta-sms-paul.netlify.app/
 
 ## 🗈 SMS
-
 Foi utilizado o Twilio, possibilitando o envio de SMS sendo o intermediador (Gateway) se comunicando com o backend da aplicação de acordo com variáveis de ambientes.
+
+![sms-dsmeta-cuted](https://user-images.githubusercontent.com/15272145/202864326-448875fd-e782-412b-8949-3a0927af9e4a.jpeg)
 
 ## 🎉 Agradecimentos
 
